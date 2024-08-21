@@ -1,0 +1,6 @@
+SpeechRecognition
+pyttsx3
+google-generativeai
+audio_recorder_streamlit
+streamlit_float
+langchain
